@@ -2,6 +2,8 @@
 
 AI-powered artisan marketplace assistant: React + Tailwind frontend, Node.js/Express backend, MongoDB, and Google Cloud AI (Speech-to-Text, Vision, Vertex AI).
 
+**Case study:** [harshith-nayaka-l-portfolio.vercel.app/work/craftconnect](https://harshith-nayaka-l-portfolio.vercel.app/work/craftconnect): the problem, the architecture and the engineering decisions behind CraftConnect.
+
 ## Project Structure
 
 ```
